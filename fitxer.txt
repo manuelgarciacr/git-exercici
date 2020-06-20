@@ -1,2 +1,3 @@
 Fitxer de text
 Línia afegida a la branca master
+Línia afegida a la branca branch1
